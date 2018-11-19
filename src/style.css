@@ -1,0 +1,24 @@
+.ordersWrapper{
+    padding: 0rem 1rem;
+}
+.pagination-top {
+    display: none;
+}
+.ReactTable .rt-thead.-header {
+    background: #f7af4f;
+    color: #fff;
+    padding: 0.5rem;
+}
+.ReactTable .rt-tbody .rt-tr .rt-td {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    position: unset !important;
+}
+.ReactTable .pagination-top {
+    display: none;
+}
+.ReactTable .rt-tr-group:hover{
+    font-family: "Gotham Bold";
+    cursor: pointer;
+}
