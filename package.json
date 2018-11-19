@@ -1,6 +1,6 @@
 {
   "name": "iposita-business-request-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"a component which render iposita business request table\"",
   "main": "dist/index.js",
   "scripts": {
